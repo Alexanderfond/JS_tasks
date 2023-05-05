@@ -6,7 +6,7 @@ if (enteredPass == "jqueryismyjam")
 {
     message = "Ласкаво просимо!";
 }
-else if (user_password == null)
+else if (enteredPass == null)
 {
     message = "Скасовано користувачем!";
 }
