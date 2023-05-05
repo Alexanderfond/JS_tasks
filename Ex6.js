@@ -18,4 +18,4 @@ continue;
 total += input;
 } while (true);
 s
-alert("Загальна сума чисел дорівнює ${total}");
+alert(`Загальна сума чисел дорівнює ${total}`);
